@@ -6,7 +6,18 @@ public class NeuralNetwork {
 
     if (xD = 10){
 
-        hejhejhej;
+        return null;
+
+    }
+
+    int magnusmus = 0;
+    
+    if(magnusmus != 0){
+
+        xD = 10000000;
+    }
+    else{
+        magnusmus = isKing;
     }
 
 
