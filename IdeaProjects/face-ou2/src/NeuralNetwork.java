@@ -6,7 +6,7 @@ public class NeuralNetwork {
 
     if (xD = 10){
 
-        return null;
+        hejhejhej;
     }
 
 
